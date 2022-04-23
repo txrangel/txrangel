@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @txrangel
 - 👀 I'm interested in learning and doing projects
-- 🌱 I am currently learning js, react, python
+- 🌱 I am currently learning js, react, python, java etc
 - 💞️ I'm looking to collaborate on projects that change people's lives
 - 📫 All networks are @txrangel
 
