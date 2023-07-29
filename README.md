@@ -37,10 +37,6 @@ object TXRANGEL {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txrangel&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=txrangel&show_icons=true&theme=dracula&line_height=27" alt="**TXRANGEL** github stats"/>
-</a>
-
 [website]: https://www.linkedin.com/in/txrangel/
 [instagram]: https://www.instagram.com/txrangel/
 [linkedin]: https://www.linkedin.com/in/txrangel/
